@@ -5,12 +5,7 @@ A study guide for course pre-work.
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- This study guide was created to practice and demonatrate coding techniques I've learned during the introductory period of the coding bootcamp. With the knowledge I've gained, it will be used as resource that I can refer back to over the duration of my time as a bootcamp student. It will also serve as a project that I can reflect on to gauge how much I've learned and how much my coding skills have evoolved. With this project, I can now have my notes in a centralized location that is accessible no matter where I am. Throughout this process, I have learned the basics of HTML, CSS and JavaScript as well as the proper method of going through the GitHub workflow.
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This study guide was created to practice and demonatrate coding techniques I've learned during the introductory period of the coding bootcamp. With the knowledge I've gained, it will be used as resource that I can refer back to over the duration of my time as a bootcamp student. It will also serve as a project that I can reflect on to gauge how much I've learned and how much my coding skills have evoolved. With this project, I can now have my notes in a centralized location that is accessible no matter where I am. Throughout this process, I have learned the basics of HTML, CSS and JavaScript as well as the proper method of going through the GitHub workflow.
 
 
 ## Installation
